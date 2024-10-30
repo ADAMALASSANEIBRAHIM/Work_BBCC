@@ -1,4 +1,4 @@
-# Work_BBCC
+# U
 Projet Big Data &amp Cloud Computing
 
 Ce projet consiste principalement à extraire, traiter et charger des données météorologiques. Ensuite, une analyse approfondie a été réalisée en se concentrant spécifiquement sur les pays de la CEDEAO, conformément au thème du projet.
