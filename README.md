@@ -18,6 +18,6 @@ Le module kaggle permet de télécharger des jeux de données disponibles sur la
 
 Le projet contient un notebook contenant tous les codes, un dashbord avec Power BI, une présentation avec Reveal.js et présentation Caneva. 
 
-**Présentation canva : https://www.canva.com/design/DAGU4_rZ7UY/oBWmcmyOI9dnZoJLlyKLFQ/view?utm_content=DAGU4_rZ7UY&utm_campaign=designshare&utm_medium=link&utm_source=editor** 
+**Présentation canva : https://www.canva.com/design/DAGU4_rZ7UY/24uvxkAwmPRqDe6DJp74iw/edit?utm_content=DAGU4_rZ7UY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton** 
 
 Base finale : 
