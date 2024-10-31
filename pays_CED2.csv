@@ -1,0 +1,16 @@
+pays;prédiction;Latitude;Longitude;couleurs 
+Bénin;-0.836802;9.30785;2.31583;vert
+Burkina Faso;-1.497803;12.23833;-1.56159;rouge 
+Cap vert ;-0.152028;16.00208;-24.0132;rouge 
+Ghana;-1.957009;7.53999;-5.54708;rouge 
+Guinée;-4.884623;13.46628;-16.5785;rouge 
+Guinée Bissau;-5.484673;7.17397;-0.14827;rouge 
+Côte d'ivoire;-1.853117;9.94559;-13.71278;rouge 
+Libéria;-1.539345;11.8813;-15.5984;rouge 
+Mali;-1.391455;6.42805;-9.42949;rouge 
+Niger;-2.008551;17.57024;-3.99617;rouge 
+Nigéria;-2.671677;17.60779;8.08167;vert
+Sénégal;-3.224336;9.082;8.6753;vert
+Sierra Leone;-5.241332;14.6928;-14.0068;rouge 
+Gambie;-3.251579;8.460555;-11.779889;rouge 
+Togo;-2.015505;8.6195;0.8248;vert
