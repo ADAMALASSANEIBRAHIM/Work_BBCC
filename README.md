@@ -20,4 +20,4 @@ Le projet contient un notebook contenant tous les codes, un dashbord avec Power 
 
 **Présentation canva : https://www.canva.com/design/DAGU4_rZ7UY/24uvxkAwmPRqDe6DJp74iw/edit?utm_content=DAGU4_rZ7UY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton** 
 
-Vous pouvez télécharger le fichier zipper pour avoir tous éléments contitutifs de notre projet. 
+Vous pouvez télécharger le fichier ***Projet_BBCC_Pipeline_Analyse_Prev_Meteo** pour avoir tous éléments contitutifs de notre projet. 
